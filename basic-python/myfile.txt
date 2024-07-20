@@ -1,0 +1,1 @@
+Does the write function overwrite existing contents?It does so only when opened in write mode.The file closes once the with statement ends. We don't have to use the new_file.close command as well.
