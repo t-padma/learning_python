@@ -1,4 +1,4 @@
-# Python practive
+# Python practice
 
 
 ## Want To do
