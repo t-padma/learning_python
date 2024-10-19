@@ -1,2 +1,2 @@
 # Python practice
-Some Python practice I have done since Jan 2024
+Some Python practice I have done so far.
